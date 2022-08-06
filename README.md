@@ -3,4 +3,5 @@ reinforcement learning Dueling Deep Q Learning (DuelingDQN) method to solve Open
 Solving Openai gym LunarLanderV2 by using Dueling DQN  
 Naive TensorFlow (using Keras) implementation of paper:  Dueling Network Architectures for Deep Reinforcement Learning
 https://arxiv.org/abs/1511.06581
-![Average Rewards](https://)
+![Average Rewards](https://github.com/MohammadAsadolahi/Dueling_Deep-Double_Q-Learning-for-solving-OpenAi-Gym-LunarLander-v2-in-python/blob/main/Average%20Rewards.png)  
+![Total Rewards](https://github.com/MohammadAsadolahi/Dueling_Deep-Double_Q-Learning-for-solving-OpenAi-Gym-LunarLander-v2-in-python/blob/main/Total%20Rewards.png)
